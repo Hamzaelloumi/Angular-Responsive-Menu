@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![image 3](https://user-images.githubusercontent.com/34381967/56064021-cb483600-5d68-11e9-89d5-f955877d80a3.PNG)
 
 ## How to install full project 
-You should run `npm start` to load all dependecies of the project.
+You should run `npm install` to load all dependecies of the project.
 
 ## How to run 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
